@@ -1,1 +1,1 @@
-# Java-Programming-Array-List-and-Structured-Data-Duke-University
+# Java-Programming-Arrays-Lists-and-Structured-Data-Duke-University
